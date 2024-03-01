@@ -4,7 +4,10 @@ Welcome to the 3D Animation Room project! This project is a simple demonstration
 
 ## Demo
 
-[View Demo](#) - [Add demo link here]
+[View Demo](https://bhaskaracharjee.github.io/3D-Room/)
+
+## Screenshot
+![Screenshot (312)](https://github.com/BhaskarAcharjee/3D-Room/assets/76872572/a1d93a5e-fcc3-498f-a220-43ef84aebcb4)
 
 ## Features
 
